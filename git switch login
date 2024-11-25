@@ -1,0 +1,41 @@
+* [33mcommit c52f6ed2af5c14c09a835ca201fd5dd119f68350[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mlogin[m[33m)[m
+[31m|[m Author: Hinalador <jacevedosalazar@gmail.com>
+[31m|[m Date:   Mon Nov 25 11:37:25 2024 -0500
+[31m|[m 
+[31m|[m     Se crea un nuevo archivo para mirar el funcionamiento de los tags
+[31m|[m 
+* [33mcommit 2e67d0875afcf5ef8226b28a0f6d0042f3c20a54[m[33m ([m[1;33mtag: [m[1;33mtag_1[m[33m)[m
+[31m|[m Author: Hinalador <jacevedosalazar@gmail.com>
+[31m|[m Date:   Mon Nov 25 11:18:18 2024 -0500
+[31m|[m 
+[31m|[m     Eliminados archivos .js tras renombrarlos a .py
+[31m|[m 
+* [33mcommit b054668f163cf59a855b95a3d464876d48c9d82c[m
+[31m|[m Author: Hinalador <jacevedosalazar@gmail.com>
+[31m|[m Date:   Mon Nov 25 11:13:05 2024 -0500
+[31m|[m 
+[31m|[m     Cambio en los archivos. De JS a PY
+[31m|[m 
+* [33mcommit 9e04993ab9768bceff642f1b14d8ef5122aecb1b[m
+[31m|[m Author: Hinalador <jacevedosalazar@gmail.com>
+[31m|[m Date:   Mon Nov 25 10:59:49 2024 -0500
+[31m|[m 
+[31m|[m     Nuevo commit, aprendiendo el git diff
+[31m|[m 
+* [33mcommit 90402ee1994cb13f82506cac4565babb0ca0890f[m
+[31m|[m Author: Hinalador <jacevedosalazar@gmail.com>
+[31m|[m Date:   Mon Nov 25 10:33:07 2024 -0500
+[31m|[m 
+[31m|[m     Segundo archivo commiteado
+[31m|[m 
+* [33mcommit 71320097c859ae792ddb1cbbc83f2b557e615758[m
+[31m|[m Author: Hinalador <jacevedosalazar@gmail.com>
+[31m|[m Date:   Mon Nov 25 10:23:38 2024 -0500
+[31m|[m 
+[31m|[m     No se porque no se guardó, así que hice otro git add
+[31m|[m 
+* [33mcommit 8655081ce71682d31920914cb31488533b7aae23[m
+  Author: Hinalador <jacevedosalazar@gmail.com>
+  Date:   Mon Nov 25 10:20:57 2024 -0500
+  
+      Primer commit curso
